@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-Site de notícias feito com HTML5 e CSS3 utilizando Grid como base para construção do layout desenvolvido para fixação do conteúdo adiquirido durante o curso da Udemy 'Modern HTML & CSS From The Beginnig' do professor Brad Traversy. 
+Site de notícias feito com HTML5 e CSS3 utilizando Grid como base para construção do layout desenvolvido para fixação do conteúdo adiquirido durante o curso 'Modern HTML & CSS From The Beginnig' do professor Brad Traversy. 
 
 ---
 
